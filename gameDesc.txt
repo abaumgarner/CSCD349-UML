@@ -1,0 +1,12 @@
+Team Info:
+Name: PUB Lab
+Members: Aaron Baumgarner
+	 Ryan Medenwaldt
+	 Josh Ohm
+
+System requirements:
+Eclipse with ANSI console plugin
+Java 8
+
+Project Description:
+The Dungeon Crawler game is a basic command line based maze wandering type game. Dungeon Crawler consists of a character party of heros to take on randomly generated monsters through out the maze. The player is prompted to name each character and to choose a class for each when the game starts. Each hero class has a special attack that the user is allowed to use when in battle. Once the user creates his/her hero pary, the user types commands in order to control the game. For a full list of the commands the user may type 'help' and a list of all of the functioning commands are listed. Map displays the maze and prompts the user to move the party through the maze. The party has a random chance to encounter a party of monsters if the user hasn't already passed through the door. If the user has passed through the door the party is free to pass through without encountering a party of monsters. Each door type has a different color to help indicate what doors have been opened and which doors have a chance of an encounter. The game is over when the user's hero party is defeated or when the party reaches the exit that is randomly placed in the lower half of the maze and is hidden from the user. the hidden exit makes the game more challenging and longer.
